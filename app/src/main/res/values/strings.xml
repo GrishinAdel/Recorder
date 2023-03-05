@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Records</string>
+
+    <string name="default_file_name">Запись</string>
+    <string name="recording_start">Запись началась</string>
+    <string name="recording_finish">Запись сохранена</string>
+    <string name="notification_recording">Идет запись…</string>
+    <string name="file_is_not_exist">Аудиофайл не найден</string>
+    <string name="save_record">Сохранить запись</string>
+    <string name="inString">в</string>
+    <string name="today">Сегодня</string>
+
+
+    <string name="recording_permissions">Без разрешения запись невозможна</string>
+    <string name="notification_channel_id" translatable="false">RecordService</string>
+    <string name="notification_channel_name" translatable="true">Recorder</string>
+    <string name="your_records">Ваши записи</string>
+    <string name="slash">/</string>
+    <string name="input_name_recording">Введите название записи</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="button_play_or_stop_recording">button play or stop recording</string>
+    <string name="button_play_or_pause_recording">button play or pause recording</string>
+</resources>
